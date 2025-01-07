@@ -237,3 +237,9 @@ padding: 4px;
     border-radius: 50px;
     margin: 10px;
   }
+
+  @media screen and (max-width:768px) {
+    #bx-add{
+     display: none;
+    }
+  }
